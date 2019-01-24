@@ -1,0 +1,51 @@
+.address{
+  border: solid gray;
+  border-width: 0.5px;
+
+}
+
+.center-flx{
+display: flex;
+flex-direction: vertical;
+justify-content: center;
+text-align: center;
+}
+.vertical-center-flex{
+  display: flex;
+
+flex-direction:column;
+  align-items: center;
+}
+
+.right{
+  float:right;
+  position:inherit;
+}
+.main-ad{
+  padding-left:10px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+img{
+  float:left;
+  padding-right: 10px;
+  padding-bottom: 15px;
+}
+.bold{
+  font-weight: bold;
+}
+.p-fnt-size{
+  font-size: 120%;
+}
+.img-right{
+  float:right;
+}
+
+.padding-lft{
+  padding-left: 10px;
+}
+
+.padding-rt{
+  padding-right: 10px;
+}
