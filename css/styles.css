@@ -27,6 +27,18 @@ flex-direction:column;
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.box1{
+  width:10px;
+  height: 20px;
+  display:flex;
+  flex-direction: column;
+}
+.box-rev{
+  width:10px;
+  height:20px;
+  display:flex;
+  flex-direction: column-reverse;
+}
 img{
   float:left;
   padding-right: 10px;
